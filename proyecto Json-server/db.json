@@ -1,0 +1,93 @@
+{
+  "profesores": [
+    {
+      "nombre": "Juan",
+      "edad": 30,
+      "cursos": [
+        "Matematicas",
+        "Fisica"
+      ],
+      "id": "6686"
+    },
+    {
+      "nombre": "Maria",
+      "edad": 25,
+      "cursos": [
+        "Quimica",
+        "Fisica"
+      ],
+      "id": "5c17"
+    },
+    {
+      "nombre": "Pedro",
+      "edad": 35,
+      "cursos": [
+        "Matematicas",
+        "Quimica"
+      ],
+      "id": "34c8"
+    },
+    {
+      "nombre": "Sergie",
+      "edad": 25,
+      "cursos": [
+        "React",
+        "NodeJs",
+        "Java"
+      ],
+      "id": "2830"
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Ana",
+      "edad": 20,
+      "cursos": [
+        "Matematicas",
+        "Fisica"
+      ],
+      "promedio": 8.5,
+      "id": "8b9e"
+    },
+    {
+      "nombre": "Luis",
+      "edad": 22,
+      "cursos": [
+        "Quimica",
+        "Fisica"
+      ],
+      "promedio": 9,
+      "id": "0c04"
+    },
+    {
+      "nombre": "Carlos",
+      "edad": 21,
+      "cursos": [
+        "Matematicas",
+        "Quimica"
+      ],
+      "promedio": 8,
+      "id": "6032"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "Matematicas",
+      "duracion": 4,
+      "dificultad": 3,
+      "id": "6dc0"
+    },
+    {
+      "nombre": "Fisica",
+      "duracion": 4,
+      "dificultad": 4,
+      "id": "44d9"
+    },
+    {
+      "nombre": "Quimica",
+      "duracion": 4,
+      "dificultad": 2,
+      "id": "7dfd"
+    }
+  ]
+}
